@@ -1,0 +1,9 @@
+{
+  "Resolution": [960, 540],
+  "Server": "127.0.0.1",
+  "Port": 5000,
+  "Name": "Player",
+  "Vehicle": "Sports Car",
+  "Colour": "red",
+  "Laps": 3
+}
