@@ -654,35 +654,3 @@ Nitro-Clash-Multiplayer/
 ├── settings.json
 ├── requirements.txt
 └── .gitignore
-```
-
-------------------------------------------------------------------------
-
-## License
-
-This repository is distributed under the terms specified in
-[`LICENSE`](LICENSE).
-
-If the repository contains third-party assets or modified assets, their
-original licensing and attribution requirements should be reviewed and
-preserved separately from the project's source-code license.
-
-------------------------------------------------------------------------
-
-## Acknowledgements
-
-Nitro Clash Multiplayer was developed as a Python/Pygame multiplayer
-racing project with a focus on LAN networking, real-time game state
-synchronization, and modular game development.
-
-Third-party libraries and assets remain subject to their respective
-licenses and terms.
-
-------------------------------------------------------------------------
-
-## Author
-
-**Nitro Clash Multiplayer**
-
-Developed as a multiplayer game development project using Python,
-Pygame, TCP networking, and JSON-based communication.
